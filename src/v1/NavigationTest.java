@@ -7,7 +7,7 @@ public class NavigationTest {
 	@Test
 	public void Navigation() {
 		// TODO Auto-generated method stub
-		System.out.println("Navigation Test v1");
+		System.out.println("Navigation Test v2");
 	}
 
 }
